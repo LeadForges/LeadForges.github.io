@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leadforges.github.io/sitemap.xml
